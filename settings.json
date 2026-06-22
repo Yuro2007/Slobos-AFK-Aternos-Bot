@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RPGONLINE.aternos.me",
+    "ip": "manefish.aternos.host",
     "port": "14263",
     "version": "1.21.1",
     "try-creative": false
