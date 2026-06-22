@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SUPERTESSTER",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "RPGONLINE.aternos.me",
-    "port": 14263,
+    "ip": "RPGONLINE.aternos.me:14263",
+    "port": "14263",
     "version": "1.21.1",
     "try-creative": false
   },
